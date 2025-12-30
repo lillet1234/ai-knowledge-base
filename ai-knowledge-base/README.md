@@ -15,6 +15,10 @@
 - [🛡️ 异议处理专家 (Objection)](prompts/objection_handling.md): 销售谈判与话术对练。
 - [🧠 AI 学习路线图 (Roadmap)](docs/learning/ai_learning_roadmap.md): GPT-4o, Coze, n8n 等全栈 AI 工具进阶计划。
 
+### 🛠️ 自动化工具 (Scripts)
+- `scripts/new_day.ps1`: 自动生成每日日志模板 (Windows PowerShell)。
+  - **用法**: 右键点击文件 -> "使用 PowerShell 运行"。
+
 ### 📖 业务知识库 (Knowledge Base)
 - [📜 业务标准流程 (SOP)](docs/knowledge_base/discount_process.md): 咨询 -> 验票 -> 打款。
 - [⛔ 风控审核标准](docs/knowledge_base/risk_control_standards.md): 红线与白名单。
