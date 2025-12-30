@@ -13,6 +13,7 @@
 - [🧙‍♂️ 资深专家人设 (Master Role)](prompts/master_role.md): 定义了“DCC 首席 AI 运营官”的身份。
 - [✍️ 文案生成器 (Copywriting)](prompts/copywriting_generator.md): 自动生成朋友圈营销文案。
 - [🛡️ 异议处理专家 (Objection)](prompts/objection_handling.md): 销售谈判与话术对练。
+- [🧠 AI 学习路线图 (Roadmap)](docs/learning/ai_learning_roadmap.md): GPT-4o, Coze, n8n 等全栈 AI 工具进阶计划。
 
 ### 📖 业务知识库 (Knowledge Base)
 - [📜 业务标准流程 (SOP)](docs/knowledge_base/discount_process.md): 咨询 -> 验票 -> 打款。
