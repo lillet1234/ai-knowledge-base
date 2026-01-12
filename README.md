@@ -14,7 +14,6 @@
 - [✍️ 文案生成器 (Copywriting)](prompts/copywriting_generator.md): 自动生成朋友圈营销文案。
 - [🛡️ 异议处理专家 (Objection)](prompts/objection_handling.md): 销售谈判与话术对练。
 - [🧠 AI 学习路线图 (Roadmap)](docs/learning/ai_learning_roadmap.md): GPT-4o, Coze, n8n 等全栈 AI 工具进阶计划。
-- [🎓 提示词指南 (Prompt Guide)](docs/learning/prompt_engineering_guide.md): 掌握 CoT、Few-Shot 等高级技巧，让 AI 更听话。
 
 ### 🛠️ 自动化工具 (Scripts)
 - `scripts/new_day.ps1`: 自动生成每日日志模板 (Windows PowerShell)。
